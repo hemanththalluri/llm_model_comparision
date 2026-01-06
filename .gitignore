@@ -1,0 +1,5 @@
+.env
+_pychache_/
+*.pyc
+data/metrics/*.csv
+data/comparison_reports/*.csv
